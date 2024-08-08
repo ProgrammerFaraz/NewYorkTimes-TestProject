@@ -12,8 +12,14 @@
   
 ## How to run the project
 * Clone the project
-* Make sure you have CocoaPods installed on your system, if not run this command on the terminal `sudo gem install cocoapods`
-* After installing CocoaPods on your system, go to project directory via terminal and run this command `pod install`
+* Make sure you have CocoaPods installed on your system, if not run this command on the terminal 
+```bash
+sudo gem install cocoapods
+```
+* After installing CocoaPods on your system, go to project directory via terminal and run this command 
+```bash
+pod install
+```
 * Go to project directory from Finder, open __Test-InnovativeSolutions.xcworkspace__
 * Select a device or simulator and run the project by pressing __Cmd+R__
 
